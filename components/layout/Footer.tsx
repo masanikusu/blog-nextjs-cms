@@ -29,14 +29,6 @@ const Footer = () => {
               Project
             </Link>
           </div>
-          <div className="px-5 py-2">
-            <Link
-              href="/profile"
-              className="font-bold text-base leading-6 text-white hover:text-gray-900"
-            >
-              Profile
-            </Link>
-          </div>
         </nav>
         <div className="flex justify-center mt-8 space-x-6">
           <Link href="https://github.com/masanikusu" className="text-gray-400 hover:text-gray-500">

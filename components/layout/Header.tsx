@@ -37,12 +37,6 @@ const Header = () => {
           >
             Project
           </Link>
-          <Link
-            href="/profile"
-            className="text-base font-bold leading-3 text-white"
-          >
-            Profile
-          </Link>
         </div>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end"></div>
       </nav>
